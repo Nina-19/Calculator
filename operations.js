@@ -1,10 +1,10 @@
 // Addition de deux nombres
 function add(a, b) {
-    return a + b;
+    return a + b; //commentaire important
 }
 // Soustraction de deux nombres
-function subtract(a, b) {
-    return a - b;
+function subtract(a, b) { 
+    return a - b; 
 }
 
 function multiply(a, b) {
@@ -24,3 +24,5 @@ return Math.pow(a, b);
 function modulo(a, b) {
 return a % b;
 }
+
+//ajout commentaire
