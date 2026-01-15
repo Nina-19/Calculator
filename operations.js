@@ -24,3 +24,5 @@ return Math.pow(a, b);
 function modulo(a, b) {
 return a % b;
 }
+
+//ajout commentaire
